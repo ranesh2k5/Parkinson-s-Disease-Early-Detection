@@ -56,9 +56,7 @@ Built with a no-nonsense combo of ML and signal processing libs:
 
 ---
 
----
-
-## Hardware
+##  Hardware
 
 - **ESP32**: The core microcontroller, chosen for its low-latency wireless communication and onboard processing capabilities.
 
@@ -152,8 +150,12 @@ MIT. Use it, modify it, remix it. Just don’t claim you built it.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Ranesh Prashar**  
  raneshprashar140@gmail.com  
  [GitHub](https://github.com/ranesh2k5)
+ [LinkedIn](https://www.linkedin.com/in/ranesh-prashar-30a32a290/)  
+ 
+
+---
