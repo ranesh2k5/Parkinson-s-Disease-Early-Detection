@@ -49,7 +49,7 @@ Built with a no-nonsense combo of ML and signal processing libs:
 - TensorFlow / Keras  
 - Scikit-learn  
 - NumPy, Pandas  
-- Librosa 🎵 (voice features)  
+- Librosa  (voice features)  
 - OpenCV + SciPy (signal magic)  
 - Matplotlib (for visuals that actually matter)  
 - Jupyter Notebook (exploration mode)
